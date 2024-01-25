@@ -25,28 +25,32 @@ You will submit the instructions and diagrams that would allow another to make y
 
 ## Process
 
-You will follow the steps outlined below (for both this sprint and those for our RoboCup design).
 
 ### Research
 
-You will research and document technical resources that you believe will help you succeed at the sprint.
+[Resource 1](https://static1.squarespace.com/static/611e9f67902c95124eaa0d6e/t/614b73d870f77d48dbb11e08/1632334815815/Paper-Pt.2-Paper-Tower-Challenge.pdf)
 
 ### Ideation
 
-You will create quick sketches or descriptions of your planned design
+![Image_20240125100334](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-ShuiyiZhao2025/assets/156118851/d3d6fd9c-a402-4d17-8e88-6075d28b188a)
 
 ### Prototyping
 
-You will make a quick and simple test of your ideas, making something that is built and tested as quickly as possible.
+![Image_20240125100334](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-ShuiyiZhao2025/assets/156118851/b0e0c880-3169-49d1-882e-95a3a8eafa36)
+![Image_20240125100311](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-ShuiyiZhao2025/assets/156118851/621f68a6-e218-4c0d-83c3-0c02862df19d)
 
 ### Testing and Critique
 
-You will evaluate your prototype and document your thinking, what you have learned and how you will improve your design.
+- Larger base for stability
+- Longer extension piece at the top for a greater height
 
 ### Final design
 
-You will document your final design idea in detail, with enough technical detail for another engineer to recreate your work
+![Image_20240125100326](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-ShuiyiZhao2025/assets/156118851/0b231188-3f89-437f-b971-9e655f42174b)
+
+- 72cm high
 
 ### Conclusion
 
-You will make a brief comment on the success of your design and what next steps others might build on your work.
+- The larger base for stability worked
+- The extension piece at the top increased the final height greatly
